@@ -30,6 +30,7 @@ Oto lista technologii, które obrałem za główny cel:
 Kontakt 📱
 
 Jeśli chcesz się ze mną skontaktować w sprawie współpracy, mentorstwa lub po prostu pogadania o programowaniu, możesz mnie znaleźć na Discord pod nickiem ".vrt1", lub wysłać mi e-mail "kubahalama19@gmail.com".
+Dodatkowę informacje o mnie znajdziesz na stronie...
 
 Mam nadzieję, że znajdziesz tutaj coś interesującego! Dziękuję za odwiedzenie mojego repozytorium.
 
