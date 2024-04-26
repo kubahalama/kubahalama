@@ -1,18 +1,1 @@
-<h1 align="center">🚀 Junior Web Developer</h1>
-
-🌐 Portfolio & Projekty
-- 🌍 Odnośniki do moich projektów znajdziesz na...
-
-🎯 Na czym się skupiam?
-- ⚙️ Programowanie aplikacji webowych
-
-👀 Co możesz odemnie oczekiwać:
-- 🧬 Programowanie strony internetowej od zera pod względem wyglądu
-- 🔧 System Logowania, Postów itp.
-- 🧩 Podłączenie oraz zautomatyzowanie zapisywania danych w bazie danych
-
-🚀 Czego się uczę / Co umiem:
-- Html
-- Css
-- JavaScript
-- React
+[![flstudio](https://github.com/kubahalama/kubahalama/assets/155463517/9745dde1-9f77-48db-be5f-1d11843afc26)](http://gg.gg/1ai6rp)
