@@ -1,1 +1,1 @@
-[![flstudio](https://github.com/kubahalama/kubahalama/assets/155463517/9745dde1-9f77-48db-be5f-1d11843afc26)](http://gg.gg/1ai6rp)
+[![flstudio](https://github.com/kubahalama/kubahalama/assets/155463517/96f394e3-646e-4f71-916c-db0a9a3ad442)](https://shorturl.at/cfgO0)
